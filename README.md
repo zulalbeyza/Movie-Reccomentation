@@ -35,15 +35,15 @@ Before running the application, ensure that you have the following installed:
 
 ### Set Up Your API Keys:
 
-**OpenAI API Key:** You need to obtain an API key from OpenAI.
-**OMDb API Key:** You can get a free API key by signing up on the OMDb website.
+- **OpenAI API Key:** You need to obtain an API key from OpenAI.
+- **OMDb API Key:** You can get a free API key by signing up on the OMDb website.
 Once you have your API keys, replace 'YOUR_OPENAI_API_KEY' and 'YOUR_OMDB_API_KEY' in the app.py file with your actual keys.
 
 
-Usage
-**1.	Select Genres:** Choose your favorite movie genres from the provided list.
-**2.	Enter Favorite Movies:** Input your top 3 favorite movies.
-**3.	Get Recommendations:** Click the "Get Recommendations" button to receive personalized movie suggestions.
-**4.	View Posters:** Posters of the recommended movies will be displayed below the recommendations.
-**5.	Provide Feedback:** After reviewing the recommendations, you can indicate whether you liked them or not. If you didn't like them, new recommendations will be generated based on your initial preferences.
+### Usage
+- **1.	Select Genres:** Choose your favorite movie genres from the provided list.
+- **2.	Enter Favorite Movies:** Input your top 3 favorite movies.
+- **3.	Get Recommendations:** Click the "Get Recommendations" button to receive personalized movie suggestions.
+- **4.	View Posters:** Posters of the recommended movies will be displayed below the recommendations.
+- **5.	Provide Feedback:** After reviewing the recommendations, you can indicate whether you liked them or not. If you didn't like them, new recommendations will be generated based on your initial preferences.
 
